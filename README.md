@@ -32,13 +32,13 @@ conda clean -tp
 To activate `ml_100`
 
 ```
-source activate
+source activate ml_100
 ```
 
 To deactivate an `env`
 
 ```
-source deactivate ml_100
+source deactivate
 ```
 
 To delete an `env`
@@ -47,10 +47,10 @@ To delete an `env`
 conda env remove -n ml_100
 ```
 
-Hopefully all went well. So after activating the env start the Jupyter notebook
+Hopefully all went well. So after activating the env start the Jupyter notebook in the background
 
 ```
-jupyter notebook
+jupyter notebook&
 ```
 
 It will open the ipynb notebook in the browser. You are all set to start coding.
