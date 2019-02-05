@@ -54,3 +54,11 @@ jupyter notebook&
 ```
 
 It will open the ipynb notebook in the browser. You are all set to start coding.
+
+### Week 1 (not neccessarily in order)
+1. Deep Learning by Udacity
+2. [Computer Vision Class by Devi Parikh](https://samyak-268.github.io/F18CS4476/)
+3. Computer Vision by Udacity
+
+Good Reads:
+1. [Hyperparameters and model validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html)
