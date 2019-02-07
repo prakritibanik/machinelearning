@@ -64,3 +64,4 @@ Good Reads:
 1. [Hyperparameters and model validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html)
 2. [Receptive field arithmetic for CNN](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 3. [How to handle imbalanced classification problem](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
+4. [Interesting questions for Data Science](https://www.hergertarian.com/rocking-data-science-interviews)
