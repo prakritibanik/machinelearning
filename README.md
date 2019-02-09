@@ -65,3 +65,5 @@ Good Reads:
 2. [Receptive field arithmetic for CNN](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 3. [How to handle imbalanced classification problem](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/) and [this](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 4. [Interesting questions for Data Science](https://www.hergertarian.com/rocking-data-science-interviews)
+5. Understand the maths behind gradient from [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
+6. Andrej Karpathy's [cs231](http://cs231n.github.io/convolutional-networks/) who doesn't know this, seriously?
