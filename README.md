@@ -67,3 +67,4 @@ Good Reads:
 4. [Interesting questions for Data Science](https://www.hergertarian.com/rocking-data-science-interviews)
 5. Understand the maths behind gradient from [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
 6. Andrej Karpathy's [cs231](http://cs231n.github.io/convolutional-networks/) who doesn't know this, seriously?
+7. A list of all courses available for any concepts related to deep learning, machine learning, computer vision and so on, thanks to the post in reddit. [Deep learning drizzle](https://github.com/kmario23/deep-learning-drizzle)
