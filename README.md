@@ -70,6 +70,6 @@ Good Reads:
 7. A list of all courses available for any concepts related to deep learning, machine learning, computer vision and so on, thanks to the post in reddit. [Deep learning drizzle](https://github.com/kmario23/deep-learning-drizzle)
 8. I find Waymo's blog very interesting to read as you get to know all latest technologies that are coming up for self driving cars.
 
-### Papers of recent ML
+### Papers from recent ML
 1. [AutoML](https://arxiv.org/abs/1611.01578)
 10. [Learning transferable architecture for scalable image recognition](https://arxiv.org/pdf/1707.07012.pdf) 
