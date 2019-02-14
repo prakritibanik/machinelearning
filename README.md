@@ -68,3 +68,5 @@ Good Reads:
 5. Understand the maths behind gradient from [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
 6. Andrej Karpathy's [cs231](http://cs231n.github.io/convolutional-networks/) who doesn't know this, seriously?
 7. A list of all courses available for any concepts related to deep learning, machine learning, computer vision and so on, thanks to the post in reddit. [Deep learning drizzle](https://github.com/kmario23/deep-learning-drizzle)
+8. Some new topics for me: [AutoML](https://arxiv.org/abs/1611.01578). 
+9. I find Waymo's blog very interesting to read as you get to know all latest technologies that are coming up for self driving cars.
