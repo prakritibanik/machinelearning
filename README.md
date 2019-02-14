@@ -72,4 +72,6 @@ Good Reads:
 
 ### Papers from recent ML
 1. [AutoML](https://arxiv.org/abs/1611.01578)
-10. [Learning transferable architecture for scalable image recognition](https://arxiv.org/pdf/1707.07012.pdf) 
+2. [Learning transferable architecture for scalable image recognition](https://arxiv.org/pdf/1707.07012.pdf)
+3. [SING](https://arxiv.org/abs/1810.09785), NeurIPS 2018
+4. [Deep anomaly detection using geometric transofrmation](https://arxiv.org/abs/1805.10917), NeurIPS 2018
